@@ -1,0 +1,12 @@
+{
+  "name": "redux-first-router-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.54.1",
+    "history": "^4.7.2",
+    "redux": "^3.7.2",
+    "redux-first-router": "1.9.19"
+  }
+}
